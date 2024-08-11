@@ -1,2 +1,2 @@
-# Stock Price Prediction Model
+# Stock Price Predictor
 regression and classification algorithm
